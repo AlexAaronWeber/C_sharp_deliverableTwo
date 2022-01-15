@@ -1,0 +1,6 @@
+/Users/Alex/Projects/deliverableTwo/deliverableTwo/bin/Debug/deliverableTwo.exe
+/Users/Alex/Projects/deliverableTwo/deliverableTwo/bin/Debug/deliverableTwo.pdb
+/Users/Alex/Projects/deliverableTwo/deliverableTwo/obj/Debug/deliverableTwo.csproj.AssemblyReference.cache
+/Users/Alex/Projects/deliverableTwo/deliverableTwo/obj/Debug/deliverableTwo.csproj.CoreCompileInputs.cache
+/Users/Alex/Projects/deliverableTwo/deliverableTwo/obj/Debug/deliverableTwo.exe
+/Users/Alex/Projects/deliverableTwo/deliverableTwo/obj/Debug/deliverableTwo.pdb
